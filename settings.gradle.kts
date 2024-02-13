@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "New Calc Lib"
 include(":app")
- 
+include(":calculationlib")
